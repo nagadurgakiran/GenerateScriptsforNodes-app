@@ -1,0 +1,10 @@
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\bin\Debug\GenerateScriptsforNodes.exe.config
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\bin\Debug\GenerateScriptsforNodes.exe
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\bin\Debug\GenerateScriptsforNodes.pdb
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\obj\Debug\GenerateScriptsforNodes.Form1.resources
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\obj\Debug\GenerateScriptsforNodes.Properties.Resources.resources
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\obj\Debug\GenerateScriptsforNodes.csproj.GenerateResource.cache
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\obj\Debug\GenerateScriptsforNodes.csproj.CoreCompileInputs.cache
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\obj\Debug\GenerateScriptsforNodes.exe
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\obj\Debug\GenerateScriptsforNodes.pdb
+E:\GenerateScripts\GenerateScriptsforNodes\GenerateScriptsforNodes\obj\Debug\GenerateScriptsforNodes.csprojAssemblyReference.cache
